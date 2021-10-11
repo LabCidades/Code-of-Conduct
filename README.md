@@ -45,7 +45,7 @@ Comportamento inaceitável de qualquer membro do LabCidades, incluindo aqueles c
 
 Qualquer pessoa solicitada a interromper um comportamento inaceitável deve obedecer imediatamente.
 
-Se um membro do LabCidades se envolver em um comportamento inaceitável, os responsáveis podem tomar qualquer ação que considerem apropriada, incluindo ações legais.
+Se um membro do LabCidades se envolver em um comportamento inaceitável, os pesquisadores responsáveis podem tomar qualquer ação que considerem apropriada, incluindo ações legais.
 
 ## Política de Armas
 
@@ -102,7 +102,7 @@ Unacceptable behavior from any LabCidades member, including those with decision-
 
 Anyone asked to stop unacceptable behavior is expected to comply immediately.
 
-If a LabCidades member engages in unacceptable behavior, the community organizers may take any action they deem appropriate, up to and including legal actions.
+If a LabCidades member engages in unacceptable behavior, the principal investigators may take any action they deem appropriate, up to and including legal actions.
 
 ## Weapons policy
 
