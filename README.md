@@ -37,11 +37,11 @@ Os seguintes comportamentos são considerados **assédio** e são inaceitáveis:
 
 Qualquer conduta de plágio é enquadrada como comportamento inaceitável.
 
-<!--> Provas e Avaliações <-->
+<!-- Provas e Avaliações -->
 
 Plágio é definido como: representar o trabalho ou as ideias de outra pessoa como próprias; e/ou usar o trabalho ou ideias de outra pessoa sem creditar a fonte. O plágio inclui, mas não se limita ao seguinte: copiar ou reafirmar o trabalho ou idéias de outra pessoa ou pessoas em qualquer trabalho oral ou escrito (impresso ou eletrônico) sem citar a fonte apropriada; usar imagens de áudio ou vídeo de outra fonte sem permissão e/ou reconhecimento dessa fonte; e colaborar com outra pessoa em um empreendimento acadêmico sem reconhecer sua contribuição. O plágio pode consistir em atos de comissão (apropriando-se das palavras ou ideias de outrem como próprias) ou omissão (não reconhecer/documentar/creditar a fonte ou o criador das palavras ou ideias).
 
-<!--> Integridade Acadêmica <-->
+<!-- Integridade Acadêmica -->
 
 ## Consequências de comportamento inaceitável
 
