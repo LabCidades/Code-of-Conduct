@@ -6,7 +6,7 @@
 * Nós o excluiremos da interação se você insultar, rebaixar ou assediar alguém. Esse não é um comportamento bem-vindo. Interpretamos o termo “assédio” como incluindo a definição abaixo. Em particular, não toleramos comportamento que exclui pessoas em grupos socialmente marginalizados.
 * O assédio privado também é inaceitável. Não importa quem você seja, se sentir que foi ou está sendo assediado ou incomodado por um membro, entre em contato com o pesquisador responsável: [Jose Storopoli](https://github.com/storopoli).
 
-## Comportamento Esperado
+## Comportamento esperado
 
 Os seguintes comportamentos são esperados e solicitados de todos os membros:
 
@@ -15,6 +15,7 @@ Os seguintes comportamentos são esperados e solicitados de todos os membros:
 * Tente colaboração antes do conflito.
 * Evite discurso e comportamento humilhante, discriminatório ou de assédio.
 * Esteja atento ao ambiente ao seu redor e aos outros participantes. Alerte qualquer um se notar uma situação perigosa, alguém em perigo ou violações deste Código de Conduta, mesmo que pareçam irrelevantes.
+* Integridade acadêmica e científica.
 
 ## Comportamento inaceitável
 
@@ -32,9 +33,11 @@ Os seguintes comportamentos são considerados **assédio** e são inaceitáveis:
 * Defender ou encorajar qualquer um dos comportamentos acima.
 * Interrupção sustentada de eventos da comunidade, incluindo palestras, apresentações, reuniões e aulas.
 
-## Política de Armas
+### Plágio
 
-Não serão permitidas armas em eventos do LabCidades, espaços comunitários, ou em outros espaços abrangidos pelo âmbito deste Código de Conduta. As armas incluem, mas não se limitam a, revólveres, explosivos (incluindo fogos de artifício) e facas grandes, como as usadas para caça ou exibição, bem como qualquer outro item usado com a finalidade de causar ferimentos ou danos a outras pessoas. Quem for visto de posse de um desses itens será convidado a sair imediatamente, e somente poderá retornar sem a arma. Além disso, espera-se que os membros do LabCidades cumpram todas as leis estaduais e locais sobre este assunto.
+Qualquer conduta de plágio é enquadrada como comportamento inaceitável.
+
+Plágio é definido como: representar o trabalho ou as ideias de outra pessoa como próprias; e/ou usar o trabalho ou ideias de outra pessoa sem creditar a fonte. O plágio inclui, mas não se limita ao seguinte: copiar ou reafirmar o trabalho ou idéias de outra pessoa ou pessoas em qualquer trabalho oral ou escrito (impresso ou eletrônico) sem citar a fonte apropriada; usar imagens de áudio ou vídeo de outra fonte sem permissão e/ou reconhecimento dessa fonte; e colaborar com outra pessoa em um empreendimento acadêmico sem reconhecer sua contribuição. O plágio pode consistir em atos de comissão (apropriando-se das palavras ou ideias de outrem como próprias) ou omissão (não reconhecer/documentar/creditar a fonte ou o criador das palavras ou ideias).
 
 ## Consequências de comportamento inaceitável
 
@@ -44,7 +47,11 @@ Qualquer pessoa solicitada a interromper um comportamento inaceitável deve obed
 
 Se um membro do LabCidades se envolver em um comportamento inaceitável, os responsáveis podem tomar qualquer ação que considerem apropriada, incluindo ações legais.
 
-## Diretrizes para relatórios
+## Política de Armas
+
+Não serão permitidas armas em eventos do LabCidades, espaços comunitários, ou em outros espaços abrangidos pelo âmbito deste Código de Conduta. As armas incluem, mas não se limitam a, revólveres, explosivos (incluindo fogos de artifício) e facas grandes, como as usadas para caça ou exibição, bem como qualquer outro item usado com a finalidade de causar ferimentos ou danos a outras pessoas. Quem for visto de posse de um desses itens será convidado a sair imediatamente, e somente poderá retornar sem a arma. Além disso, espera-se que os membros do LabCidades cumpram todas as leis estaduais e locais sobre este assunto.
+
+## Diretrizes para reporte
 
 Se você estiver sujeito a ou testemunhar um comportamento inaceitável, ou tiver qualquer outra preocupação, notifique o pesquisador responsável o mais rápido possível: [Jose Storopoli](https://github.com/storopoli).
 
@@ -56,7 +63,7 @@ Se você estiver sujeito a ou testemunhar um comportamento inaceitável, ou tive
 * We will exclude you from interaction if you insult, demean or harass anyone. That is not welcome behavior. We interpret the term “harassment” as including the definition below. In particular, we don’t tolerate behavior that excludes people in socially marginalized groups.
 * Private harassment is also unacceptable. No matter who you are, if you feel you have been or are being harassed or made uncomfortable by a member, please contact one the principal investigator: [Jose Storopoli](https://github.com/storopoli).
 
-## Expected Behavior
+## Expected behavior
 
 The following behaviors are expected and requested of all members:
 
@@ -65,8 +72,9 @@ The following behaviors are expected and requested of all members:
 * Attempt collaboration before conflict.
 * Refrain from demeaning, discriminatory, or harassing behavior and speech.
 * Be mindful of your surroundings and of your fellow participants. Alert anyone if you notice a dangerous situation, someone in distress, or violations of this Code of Conduct, even if they seem inconsequential.
+* Academic and scientific integrity.
 
-## Unacceptable Behavior 
+## Unacceptable behavior 
 
 The following behaviors are considered **harassment** and are unacceptable:
 
@@ -82,11 +90,13 @@ The following behaviors are considered **harassment** and are unacceptable:
 * Advocating for, or encouraging, any of the above behavior.
 * Sustained disruption of community events, including talks, presentations, meetings and lectures.
 
-## Weapons Policy
+### Plagiarism
 
-No weapons will be allowed at LabCidades events, community spaces, or in other spaces covered by the scope of this Code of Conduct. Weapons include but are not limited to guns, explosives (including fireworks), and large knives such as those used for hunting or display, as well as any other item used for the purpose of causing injury or harm to others. Anyone seen in possession of one of these items will be asked to leave immediately, and will only be allowed to return without the weapon. LabCidades members are further expected to comply with all state and local laws on this matter.
+Any plagiarism conduct is framed as unacceptable behavior.
 
-## Consequences of Unacceptable Behavior
+Plagiarism is defined as: representing the work or ideas of another as one’s own; and/or using another’s work or ideas without crediting the source. Plagiarism includes, but is not limited to, the following: copying or restating the work or ideas of another person or persons in any oral or written work (printed or electronic) without citing the appropriate source; using audio or video footage that comes from another source without permission and/or acknowledgement of that source; and collaborating with someone else in an academic endeavor without acknowledging their contribution. Plagiarism can consist of acts of commission (appropriating the words or ideas of another as one’s own), or omission (failing to acknowledge/document/credit the source or creator of words or ideas).
+
+## Consequences of unacceptable behavior
 
 Unacceptable behavior from any LabCidades member, including those with decision-making authority, will not be tolerated.
 
@@ -94,7 +104,10 @@ Anyone asked to stop unacceptable behavior is expected to comply immediately.
 
 If a LabCidades member engages in unacceptable behavior, the community organizers may take any action they deem appropriate, up to and including legal actions.
 
-## Reporting Guidelines
+## Weapons policy
+
+No weapons will be allowed at LabCidades events, community spaces, or in other spaces covered by the scope of this Code of Conduct. Weapons include but are not limited to guns, explosives (including fireworks), and large knives such as those used for hunting or display, as well as any other item used for the purpose of causing injury or harm to others. Anyone seen in possession of one of these items will be asked to leave immediately, and will only be allowed to return without the weapon. LabCidades members are further expected to comply with all state and local laws on this matter.
+
+## Reporting guidelines
 
 If you are subject to or witness unacceptable behavior, or have any other concerns, please notify the principal investigator as soon as possible. [Jose Storopoli](https://github.com/storopoli).
-
