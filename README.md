@@ -61,7 +61,7 @@ Se você estiver sujeito a ou testemunhar um comportamento inaceitável, ou tive
 
 # [LabCidades](https://labcidades.github.io) Code of Conduct
 
-* We are committed to providing a friendly, safe and welcoming environment for all, regardless of level of experience, gender identity and expression, sexual orientation, disability, personal appearance, body size, race, ethnicity, age, religion, nationality, or other similar characteristic.*
+* We are committed to providing a friendly, safe and welcoming environment for all, regardless of level of experience, gender identity and expression, sexual orientation, disability, personal appearance, body size, race, ethnicity, age, religion, nationality, or other similar characteristic.
 * Please be kind and courteous. There’s no need to be mean or rude.
 * Respect that people have differences of opinion.
 * We will exclude you from interaction if you insult, demean or harass anyone. That is not welcome behavior. We interpret the term “harassment” as including the definition below. In particular, we don’t tolerate behavior that excludes people in socially marginalized groups.
