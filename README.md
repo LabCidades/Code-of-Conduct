@@ -39,7 +39,11 @@ Qualquer conduta de plágio é enquadrada como comportamento inaceitável.
 
 Plágio é definido como: copiar as respostas de outro aluno em um exame' representar o trabalho ou as ideias de outra pessoa como próprias; e/ou usar o trabalho ou ideias de outra pessoa sem creditar a fonte. O plágio inclui, mas não se limita ao seguinte: copiar ou reafirmar o trabalho ou idéias de outra pessoa ou pessoas em qualquer trabalho oral ou escrito (impresso ou eletrônico) sem citar a fonte apropriada; usar imagens de áudio ou vídeo de outra fonte sem permissão e/ou reconhecimento dessa fonte; e colaborar com outra pessoa em um empreendimento acadêmico sem reconhecer sua contribuição. O plágio pode consistir em atos de comissão (apropriando-se das palavras ou ideias de outrem como próprias) ou omissão (não reconhecer/documentar/creditar a fonte ou o criador das palavras ou ideias).
 
-<!-- Integridade Acadêmica -->
+### Integridade Acadêmica
+
+Qualquer violação de integridade acadêmica é enquadrada como comportamento inaceitável.
+
+A integridade acadêmica é violada quando há constatação de deturpação, falsificação ou fabricação de dados apresentados para pesquisas, experimentos, relatórios, etc., o que inclui, mas não se limita a: citar autores que não existem; citando entrevistas que nunca ocorreram; citando trabalho de campo que não foi concluído; e falsamente alegando presença em eventos científicos.
 
 ## Consequências de comportamento inaceitável
 
@@ -97,6 +101,12 @@ The following behaviors are considered **harassment** and are unacceptable:
 Any plagiarism conduct is framed as unacceptable behavior.
 
 Plagiarism is defined as: representing the work or ideas of another as one’s own; and/or using another’s work or ideas without crediting the source. Plagiarism includes, but is not limited to, the following: copying the answers of another student on an examination; copying or restating the work or ideas of another person or persons in any oral or written work (printed or electronic) without citing the appropriate source; using audio or video footage that comes from another source without permission and/or acknowledgement of that source; and collaborating with someone else in an academic endeavor without acknowledging their contribution. Plagiarism can consist of acts of commission (appropriating the words or ideas of another as one’s own), or omission (failing to acknowledge/document/credit the source or creator of words or ideas).
+
+### Academic Integrity
+
+Any violation of academic integrity is framed as unacceptable behavior.
+
+Academic integrity is violated when there is evidence of misrepresentation, falsification or fabrication of data presented for research, experiments, reports, etc., which includes, but is not limited to: citing authors who do not exist; citing interviews that never took place; citing field work that has not been completed; and falsely claiming presence at scientific events.
 
 ## Consequences of unacceptable behavior
 
