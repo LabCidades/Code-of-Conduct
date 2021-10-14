@@ -8,7 +8,7 @@
 
 ## Comportamento esperado
 
-Os seguintes comportamentos são esperados e solicitados de todos os membros:
+Os seguintes comportamentos são esperados e solicitados a todos os membros:
 
 * Participe de forma autêntica e ativa.
 * Exercite consideração e respeito em seu discurso e ações.
@@ -22,13 +22,13 @@ Os seguintes comportamentos são esperados e solicitados de todos os membros:
 Os seguintes comportamentos são considerados **assédio** e são inaceitáveis:
 
 * Violência, ameaças de violência ou linguagem violenta dirigida contra outra pessoa.
-* Piadas e linguagem sexistas, racistas, homofóbicas, transfóbicas, apetecíveis ou discriminatórias.
+* Piadas e linguagem sexistas, racistas, homofóbicas, transfóbicas ou discriminatórias.
 * Postar ou exibir material sexualmente explícito ou violento.
 * Postar ou ameaçar postar informações de identificação pessoal de outras pessoas.
 * Insultos pessoais, especialmente aqueles relacionados a gênero, orientação sexual, raça, religião ou deficiência.
 * Fotografia ou gravação inadequada.
 * Contato físico inadequado. Você deve ter o consentimento de alguém antes de tocá-los.
-* Atenção sexual indesejada. Isso inclui comentários ou piadas sexualizadas; toques inapropriados, apalpadelas e avanços sexuais indesejáveis.
+* Atenção e conduta sexual indesejada. Isso inclui comentários ou piadas sexualizadas; toques inapropriados, apalpadelas e avanços sexuais indesejáveis.
 * Intimidação deliberada, perseguição ou seguimento (online ou pessoalmente).
 * Defender ou encorajar qualquer um dos comportamentos acima.
 * Interrupção sustentada de eventos da comunidade, incluindo palestras, apresentações, reuniões e aulas.
@@ -53,13 +53,9 @@ Qualquer pessoa solicitada a interromper um comportamento inaceitável deve obed
 
 Se um membro do LabCidades se envolver em um comportamento inaceitável, os pesquisadores responsáveis podem tomar qualquer ação que considerem apropriada, incluindo ações legais.
 
-## Política de Armas
-
-Não serão permitidas armas em eventos do LabCidades, espaços comunitários, ou em outros espaços abrangidos pelo âmbito deste Código de Conduta. As armas incluem, mas não se limitam a, revólveres, explosivos (incluindo fogos de artifício) e facas grandes, como as usadas para caça ou exibição, bem como qualquer outro item usado com a finalidade de causar ferimentos ou danos a outras pessoas. Quem for visto de posse de um desses itens será convidado a sair imediatamente, e somente poderá retornar sem a arma. Além disso, espera-se que os membros do LabCidades cumpram todas as leis estaduais e locais sobre este assunto.
-
 ## Diretrizes para reporte
 
-Se você estiver sujeito a ou testemunhar um comportamento inaceitável, ou tiver qualquer outra preocupação, notifique o pesquisador responsável o mais rápido possível: [Jose Storopoli](https://github.com/storopoli).
+Se você for vítima ou presenciar (testemunhar) um comportamento inaceitável, ou tiver qualquer outra preocupação, notifique o pesquisador responsável o mais rápido possível: [Jose Storopoli](https://github.com/storopoli).
 
 # [LabCidades](https://labcidades.github.io) Code of Conduct
 
@@ -115,10 +111,6 @@ Unacceptable behavior from any LabCidades member, including those with decision-
 Anyone asked to stop unacceptable behavior is expected to comply immediately.
 
 If a LabCidades member engages in unacceptable behavior, the principal investigators may take any action they deem appropriate, up to and including legal actions.
-
-## Weapons policy
-
-No weapons will be allowed at LabCidades events, community spaces, or in other spaces covered by the scope of this Code of Conduct. Weapons include but are not limited to guns, explosives (including fireworks), and large knives such as those used for hunting or display, as well as any other item used for the purpose of causing injury or harm to others. Anyone seen in possession of one of these items will be asked to leave immediately, and will only be allowed to return without the weapon. LabCidades members are further expected to comply with all state and local laws on this matter.
 
 ## Reporting guidelines
 
