@@ -1,9 +1,10 @@
 # Código de Conduta do [LabCidades](https://labcidades.github.io)
 
-* Estamos empenhados em fornecer um ambiente amigável, seguro e acolhedor para todos, independentemente do nível de experiência, identidade e expressão de gênero, orientação sexual, deficiência, aparência pessoal, tamanho do corpo, raça, etnia, idade, religião, nacionalidade ou outros semelhantes característica.
+* Estamos empenhados em fornecer um ambiente amigável, seguro e acolhedor para todos, independentemente do nível de experiência, identidade e expressão de gênero, orientação sexual, deficiência, aparência pessoal, tamanho do corpo, raça, etnia, idade, religião, nacionalidade ou outras semelhantes características.
 * Por favor, seja gentil e cortês. Não há necessidade de ser maldoso ou rude.
-* Respeite que as pessoas têm diferenças de opinião.
-* Nós o excluiremos da interação se você insultar, rebaixar ou assediar alguém. Esse não é um comportamento bem-vindo. Interpretamos o termo “assédio” como incluindo a definição abaixo. Em particular, não toleramos comportamento que exclui pessoas em grupos socialmente marginalizados.
+* Respeite as diferenças de opinião das pessoas.
+* Nós o excluiremos da interação se você insultar, rebaixar ou assediar alguém. Este não é um comportamento bem-vindo.
+* Interpretamos o termo “assédio” como incluindo a definição abaixo. Em particular, não toleramos comportamento que exclui pessoas em grupos socialmente marginalizados.
 * O assédio privado também é inaceitável. Não importa quem você seja, se sentir que foi ou está sendo assediado ou incomodado por um membro, entre em contato com o pesquisador responsável: [Jose Storopoli](https://github.com/storopoli).
 
 ## Comportamento esperado
@@ -12,10 +13,10 @@ Os seguintes comportamentos são esperados e solicitados a todos os membros:
 
 * Participe de forma autêntica e ativa.
 * Exercite consideração e respeito em seu discurso e ações.
-* Tente colaboração antes do conflito.
+* Tente a colaboração antes do conflito.
 * Evite discurso e comportamento humilhante, discriminatório ou de assédio.
 * Esteja atento ao ambiente ao seu redor e aos outros participantes. Alerte qualquer um se notar uma situação perigosa, alguém em perigo ou violações deste Código de Conduta, mesmo que pareçam irrelevantes.
-* Integridade acadêmica e científica.
+* Trabalhe em prol Integridade acadêmica e científica.
 
 ## Comportamento inaceitável
 
@@ -29,7 +30,7 @@ Os seguintes comportamentos são considerados **assédio** e são inaceitáveis:
 * Fotografia ou gravação inadequada.
 * Contato físico inadequado. Você deve ter o consentimento de alguém antes de tocá-los.
 * Atenção e conduta sexual indesejada. Isso inclui comentários ou piadas sexualizadas; toques inapropriados, apalpadelas e avanços sexuais indesejáveis.
-* Intimidação deliberada, perseguição ou seguimento (online ou pessoalmente).
+* Intimidação deliberada ou perseguição (online ou pessoalmente).
 * Defender ou encorajar qualquer um dos comportamentos acima.
 * Interrupção sustentada de eventos da comunidade, incluindo palestras, apresentações, reuniões e aulas.
 
@@ -37,7 +38,7 @@ Os seguintes comportamentos são considerados **assédio** e são inaceitáveis:
 
 Qualquer conduta de plágio é enquadrada como comportamento inaceitável.
 
-Plágio é definido como: copiar as respostas de outro aluno em um exame' representar o trabalho ou as ideias de outra pessoa como próprias; e/ou usar o trabalho ou ideias de outra pessoa sem creditar a fonte. O plágio inclui, mas não se limita ao seguinte: copiar ou reafirmar o trabalho ou idéias de outra pessoa ou pessoas em qualquer trabalho oral ou escrito (impresso ou eletrônico) sem citar a fonte apropriada; usar imagens de áudio ou vídeo de outra fonte sem permissão e/ou reconhecimento dessa fonte; e colaborar com outra pessoa em um empreendimento acadêmico sem reconhecer sua contribuição. O plágio pode consistir em atos de comissão (apropriando-se das palavras ou ideias de outrem como próprias) ou omissão (não reconhecer/documentar/creditar a fonte ou o criador das palavras ou ideias).
+Plágio é definido como: copiar as respostas de outro aluno em um exame' representar o trabalho ou as ideias de outra pessoa como próprias; e/ou usar o trabalho ou ideias de outra pessoa sem creditar a fonte. O plágio inclui, mas não se limita ao seguinte: copiar ou reafirmar o trabalho ou idéias de outra pessoa ou pessoas em qualquer trabalho oral ou escrito (impresso ou eletrônico) sem citar a fonte apropriada; usar imagens de áudio ou vídeo de outra fonte sem permissão e/ou reconhecimento dessa fonte; e colaborar com outra pessoa em um empreendimento acadêmico sem reconhecer sua contribuição. O plágio pode consistir em atos de apropriação (apropriando-se das palavras ou ideias de outrem como próprias) ou omissão (não reconhecer/documentar/creditar a fonte ou o criador das palavras ou ideias).
 
 ### Integridade Acadêmica
 
@@ -49,7 +50,7 @@ A integridade acadêmica é violada quando há constatação de deturpação, fa
 
 Comportamento inaceitável de qualquer membro do LabCidades, incluindo aqueles com autoridade para tomar decisões, não será tolerado.
 
-Qualquer pessoa solicitada a interromper um comportamento inaceitável deve obedecer imediatamente.
+Qualquer pessoa solicitada a interromper um comportamento inaceitável deve cessá-lo imediatamente.
 
 Se um membro do LabCidades se envolver em um comportamento inaceitável, os pesquisadores responsáveis podem tomar qualquer ação que considerem apropriada, incluindo ações legais.
 
@@ -62,7 +63,8 @@ Se você for vítima ou presenciar (testemunhar) um comportamento inaceitável, 
 * We are committed to providing a friendly, safe and welcoming environment for all, regardless of level of experience, gender identity and expression, sexual orientation, disability, personal appearance, body size, race, ethnicity, age, religion, nationality, or other similar characteristic.
 * Please be kind and courteous. There’s no need to be mean or rude.
 * Respect that people have differences of opinion.
-* We will exclude you from interaction if you insult, demean or harass anyone. That is not welcome behavior. We interpret the term “harassment” as including the definition below. In particular, we don’t tolerate behavior that excludes people in socially marginalized groups.
+* We will exclude you from interaction if you insult, demean or harass anyone. That is not welcome behavior.
+* We interpret the term “harassment” as including the definition below. In particular, we don’t tolerate behavior that excludes people in socially marginalized groups.
 * Private harassment is also unacceptable. No matter who you are, if you feel you have been or are being harassed or made uncomfortable by a member, please contact one the principal investigator: [Jose Storopoli](https://github.com/storopoli).
 
 ## Expected behavior
@@ -74,7 +76,7 @@ The following behaviors are expected and requested of all members:
 * Attempt collaboration before conflict.
 * Refrain from demeaning, discriminatory, or harassing behavior and speech.
 * Be mindful of your surroundings and of your fellow participants. Alert anyone if you notice a dangerous situation, someone in distress, or violations of this Code of Conduct, even if they seem inconsequential.
-* Academic and scientific integrity.
+* Exercise academic and scientific integrity.
 
 ## Unacceptable behavior 
 
